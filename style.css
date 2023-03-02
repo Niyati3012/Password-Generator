@@ -24,7 +24,6 @@
     --vb-cyan2: hsl(177, 92%, 70%);
     --dk-text: hsl(198, 20%, 13%);
 }
-
 body {
     width: 100vw;
     height: 100vh;
